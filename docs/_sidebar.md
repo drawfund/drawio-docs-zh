@@ -1,10 +1,11 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Audio](audio.md)
-* [Code](code.md)
+* [Audio](Demo-audio.md)
+* [Code](Demo-code.md)
 * [Diagrams](diagrams.md)
 * [Guide](guide.md)
-* [Video](video.md)
-* [SVG](svg.md)
+* [Video](Demo-video.md)
+* [SVG](Demo-svg.md)
 * [Donate](donate.md)
+
